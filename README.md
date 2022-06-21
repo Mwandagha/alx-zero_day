@@ -1,1 +1,1 @@
-my first readme
+iko na kakitu
